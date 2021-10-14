@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a software engineer.
-- 🌱 I’m currently a Ph.D. candidate in University of Delaware.
+- 🌱 I’m currently a research assistant in University of Delaware.
 - 👯 I'm looking for a full-time software engineer position.
 - 💬 Ask me anything about coding.
 - 📫 How to reach me: rinayumiho@gmail.com, gamestar@udel.edu.
