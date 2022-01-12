@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about coding.
 - 📫 How to reach me: rinayumiho@gmail.com, gamestar@udel.edu.
 - 😄 Pronouns: he/him/his.
+- ⚡ LinkedIn: https://www.linkedin.com/in/long-chen-5153a31b7/
