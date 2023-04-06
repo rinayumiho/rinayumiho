@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a software engineer.
+<!-- - 🔭 I’m a software engineer.
 - 🌱 I’m a MS student in computer science, University of Delaware.
 - 👯 I'm looking for a full-time software engineer position.
 - 💬 Ask me anything about coding.
 - 📫 How to reach me: rinayumiho@gmail.com, gamestar@udel.edu.
 - 😄 Pronouns: he/him/his.
-- ⚡ LinkedIn: https://www.linkedin.com/in/long-chen-5153a31b7/
+- ⚡ LinkedIn: https://www.linkedin.com/in/long-chen-5153a31b7/ -->
